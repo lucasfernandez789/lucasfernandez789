@@ -59,7 +59,9 @@
 </p>
 
 - **University Technician in Programming** · UTN – Facultad Regional Tucumán (2019–2023)
-- Introduction to Software Engineering
+- [Software Testing from Scratch: MasterClass](https://www.udemy.com/certificate/UC-4f2d4fd8-7949-4c00-80af-12ec07101391/) · Udemy (2025)
+- [Introduction to Git](https://www.datacamp.com/completed/statement-of-accomplishment/course/60146b71495e7897e37dc1d05045c49ff07e14b6) · DataCamp
+- [Introduction to GitHub Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/fea029ef59be20a7d71ee010cb47425491ae6f9e) · DataCamp
 - Foundations of Cybersecurity
 - Play It Safe: Manage Security Risks
 
