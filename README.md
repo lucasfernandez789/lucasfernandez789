@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/luucas-fernandez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Argentina-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
