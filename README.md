@@ -54,6 +54,10 @@
 
 ### 🎓 Education & certifications
 
+<p>
+  <a href="https://www.credly.com/badges/4e79058e-efa9-44eb-9206-51156916d3c5/public_url"><img src="https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" width="110" alt="Software Engineering Essentials" title="Software Engineering Essentials" /></a>
+</p>
+
 - **University Technician in Programming** · UTN – Facultad Regional Tucumán (2019–2023)
 - Introduction to Software Engineering
 - Foundations of Cybersecurity
