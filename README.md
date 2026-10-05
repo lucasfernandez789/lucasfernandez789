@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=170&section=header&text=Lucas%20Fernandez&fontSize=42&fontColor=ffffff&desc=QA%20%2F%20Testing%20Engineer%20%C2%B7%20Frontend&descAlignY=72&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=170&section=header&text=Lucas%20Julian%20Fernandez&fontSize=38&fontColor=ffffff&desc=QA%20%2F%20Testing%20Engineer%20%C2%B7%20Frontend&descAlignY=72&descSize=18" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=Breaking+things+so+users+don't+have+to;E2E+automation+with+Cypress;Building+my+own+test+reporting+platform;AI-assisted+QA+workflows" alt="Typing intro" />
