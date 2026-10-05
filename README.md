@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=170&section=header&text=Lucas%20Fernandez&fontSize=42&fontColor=ffffff&desc=QA%20%2F%20Testing%20Engineer%20%C2%B7%20Frontend&descAlignY=72&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=Breaking+things+so+users+don't+have+to;E2E+testing+with+Cypress;Manual+%26+exploratory+testing;Automating+QA+workflows+with+AI" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=Breaking+things+so+users+don't+have+to;E2E+automation+with+Cypress;Building+my+own+test+reporting+platform;AI-assisted+QA+workflows" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -13,41 +13,44 @@
 
 ### 👋 About me
 
-**Testing Engineer** at the Legislature of Tucumán (since 2024), testing internal web systems end to end. University Technician in Programming from **UTN – FRT**, so I also write code and understand what breaks and why. I care about **clear bug reports, reproducible test cases and fast feedback loops**.
+**Testing Engineer** at the Legislature of Tucumán (since 2024). I'm the QA for the organization's web systems, from legislative case management to asset inventory, and I build the tooling that makes testing faster. University Technician in Programming from **UTN – FRT**, so I write code too and understand what breaks and why.
 
-- 🔍 Currently: functional, regression and exploratory testing on internal web apps
-- 🤖 Building: AI tooling that automates the QA card workflow ([claude-qa-card](https://github.com/lucasfernandez789/claude-qa-card))
-- 🌱 Learning: test automation (Cypress, JMeter, TestRail) and cybersecurity
-- 🔌 Also built: IoT projects with Arduino
 - 🌎 Languages: Spanish (native) · English (bilingual)
+- 🌱 Learning: performance testing (JMeter) and cybersecurity
 
-### 🧪 How I test
+### 🧪 What I do
 
-| Area | What I do |
+| Area | Details |
 |---|---|
-| **Manual & exploratory** | Black-box testing, edge cases, regression passes before release |
-| **E2E automation** | Cypress suites for critical user flows |
-| **Documentation** | Test cases, test plans and reproducible bug reports |
-| **Process** | GitHub Projects workflow: *Ready to test → In testing → Done* |
+| **Functional QA** | Black-box, regression and exploratory testing across multiple internal web systems |
+| **E2E automation** | Cypress suites organized by system, split into core flows and feature specs |
+| **Bug reporting** | Structured issues: description, actual vs. expected behavior, steps to reproduce |
+| **Test documentation** | Test case sheets per card and role-based user manuals with automated screenshots |
+| **Process** | GitHub Projects flow: *Ready to test → In testing → Done / In Review* |
+
+### 🚀 What I'm building
+
+**🧰 Cypress reporting platform**: an end-to-end pipeline for test results.
+- **Runner**: executes Cypress suites and classifies results per system and test type
+- **Backend** (Node.js · Express · MySQL): ingests and stores versioned reports through a REST API
+- **Dashboard** (React): browse executions, separate known bugs from real failures and draft a GitHub bug issue in one click, with sensitive data redacted automatically
+
+**🤖 AI-assisted QA**: [claude-qa-card](https://github.com/lucasfernandez789/claude-qa-card), a Claude Code plugin that takes a GitHub card, moves it through the project board, tests it and generates the test case sheet.
+
+**📘 Docs as code**: user manuals written in Markdown, with screenshots captured by browser automation and exported to Word through a pandoc pipeline.
 
 ### 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cypress,js,html,css,php,cpp,mysql&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,arduino,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cypress,js,react,nodejs,express,mysql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,php,cpp,arduino&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
   <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
-
-### 📌 Featured work
-
-| Project | What it is |
-|---|---|
-| [**claude-qa-card**](https://github.com/lucasfernandez789/claude-qa-card) | Claude Code plugin that QAs GitHub cards end to end and documents test cases |
-| [**cypressCapacitacion**](https://github.com/lucasfernandez789/cypressCapacitacion) | Cypress E2E testing practice project |
-| [**excel-to-csv-converter**](https://github.com/lucasfernandez789/excel-to-csv-converter) | GUI tool that converts each Excel sheet into its own CSV file |
 
 ### 🎓 Education & certifications
 
