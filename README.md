@@ -55,13 +55,15 @@
 ### 🎓 Education & certifications
 
 <p>
-  <a href="https://www.credly.com/badges/4e79058e-efa9-44eb-9206-51156916d3c5/public_url"><img src="https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" width="110" alt="Software Engineering Essentials" title="Software Engineering Essentials" /></a>
+  <a href="https://www.credly.com/badges/4e79058e-efa9-44eb-9206-51156916d3c5/public_url"><img src="https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" height="110" alt="Software Engineering Essentials" title="Software Engineering Essentials" /></a>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/a4c0593e23c328bfa59f38824fff6451926bd50e"><img src="assets/badges/datacamp-github-foundations.png" height="110" alt="GitHub Foundations" title="GitHub Foundations" /></a>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/60146b71495e7897e37dc1d05045c49ff07e14b6"><img src="assets/badges/datacamp-git.png" height="110" alt="Introduction to Git" title="Introduction to Git" /></a>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/fea029ef59be20a7d71ee010cb47425491ae6f9e"><img src="assets/badges/datacamp-github-concepts.png" height="110" alt="Introduction to GitHub Concepts" title="Introduction to GitHub Concepts" /></a>
 </p>
 
 - **University Technician in Programming** · UTN – Facultad Regional Tucumán (2019–2023)
 - [Software Testing from Scratch: MasterClass](https://www.udemy.com/certificate/UC-4f2d4fd8-7949-4c00-80af-12ec07101391/) · Udemy (2025)
-- [Introduction to Git](https://www.datacamp.com/completed/statement-of-accomplishment/course/60146b71495e7897e37dc1d05045c49ff07e14b6) · DataCamp
-- [Introduction to GitHub Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/fea029ef59be20a7d71ee010cb47425491ae6f9e) · DataCamp
+- [GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/a4c0593e23c328bfa59f38824fff6451926bd50e) track · DataCamp
 - Foundations of Cybersecurity
 - Play It Safe: Manage Security Risks
 
